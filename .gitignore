@@ -1,0 +1,43 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist/
+/tmp/
+
+# dependencies
+/bower_components/
+/node_modules/
+/electron-builds/
+
+# misc
+/.env*
+/.pnp*
+/.sass-cache
+/.eslintcache
+/connect.lock
+/coverage/
+/libpeerconnection.log
+/npm-debug.log*
+/yarn-error.log
+/testem.log
+/debug.log
+/nbproject/private/
+.DS_Store
+sgconline_node_modules.rar
+
+# ember-try
+/.node_modules.ember-try/
+/bower.json.ember-try
+/package.json.ember-try
+
+corber/cordova
+tmp-livereload
+corber/cordova-*/node_modules
+corber/cordova-*/package.json
+corber/cordova-*/package-lock.json
+corber/cordova-*/platforms/*
+!corber/cordova-*/platforms/.gitkeep
+corber/cordova-*/plugins/*
+!corber/cordova-*/plugins/.gitkeep
+corber/cordova-*/www/*
+!corber/cordova-*/www/.gitkeep
