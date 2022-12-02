@@ -24,6 +24,7 @@
 /nbproject/private/
 .DS_Store
 sgconline_node_modules.rar
+.npmrc
 
 # ember-try
 /.node_modules.ember-try/
