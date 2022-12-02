@@ -1,6 +1,6 @@
 {
   "name": "@eliel-jr/corber-webpack5-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Webpack plugin to enable cordova plugins during corber livereloads",
   "homepage": "https://corber.io",
   "repository": {
